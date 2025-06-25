@@ -1,3 +1,5 @@
+//Problem-3: With a single integer as the input, generate the series of numbers as shown in below examples.
+
 import java.util.Scanner;
 public class OddSeriesGenerator 
 {
