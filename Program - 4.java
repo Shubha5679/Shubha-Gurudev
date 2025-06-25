@@ -1,3 +1,5 @@
+//Problem-4: Get the total count of number listed in the dictionary which is multiple of [1,2,3,4,5,6,7,8,9].
+
 import java.util.*;
 public class CountOfMultiples
 {
