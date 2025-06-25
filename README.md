@@ -1,2 +1,3 @@
-# Shubha-Gurudev
-4 Coding problems solved
+# Shubha Gurudev
+JAVA
+4 Coding problems solved using java programming language
